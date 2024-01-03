@@ -14,5 +14,13 @@ public class Main {
     Scanner input = new Scanner(System.in);
     Float num = input.nextFloat();
     System.out.println(num);
+    // Example
+    int typenum = (int) (22.222f);
+    System.out.println(typenum);
+    // automativ type promotion
+
+    byte b = (byte) (a);
+
+    // it follow's the unicode system.
   }
 }
