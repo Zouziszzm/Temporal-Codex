@@ -21,6 +21,7 @@ public class Main {
 
     byte b = (byte) (a);
 
+    System.out.println("the value for double plesase");
     // it follow's the unicode system.
   }
 }
